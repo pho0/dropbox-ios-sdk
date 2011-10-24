@@ -17,7 +17,7 @@
 #import "MPURLRequestParameter.h"
 #import "MPOAuthSignatureParameter.h"
 #import "NSString+URLEscapingAdditions.h"
-
+#import "MPOAuthCredentialConcreteStore.h"
 
 @interface DBRestClient ()
 

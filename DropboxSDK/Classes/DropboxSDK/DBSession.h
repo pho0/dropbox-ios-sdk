@@ -6,7 +6,7 @@
 //  Copyright 2010 Dropbox, Inc. All rights reserved.
 //
 
-#import "MPOAuthCredentialConcreteStore.h"
+@class MPOAuthCredentialConcreteStore;
 
 extern NSString *kDBSDKVersion;
 
